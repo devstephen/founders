@@ -1,0 +1,19 @@
+{
+  "name": "founders-api",
+  "version": "1.0.0",
+  "description": "An simple API that returns list of founders and their company",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agbadev",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
